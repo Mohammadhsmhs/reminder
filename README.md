@@ -3,8 +3,8 @@
  Hi 
  I tried implementing uncle bobs clean architecture (I personally think it's the most important aspect) in this project 
  there is a feature folder which contains all features of the app and 
- every feature has data, domain and presentation 
- we can implement desired design pattern in presentation... 
+ every feature has data layer, domain layer and presentation layer
+ we can implement desired design pattern in presentation layer... 
 
 note : some features are missing due to my time limits
 
